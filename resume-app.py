@@ -17,7 +17,7 @@ def extract_text_from_pdf(file):
 # Function to rank resumes based on job description
 def rank_resumes(job_description, resumes):
     # Combine job description with resumes
-    documents[job_description] + resumes
+    documents = [job_description] + resumes
     vectorizer = TfidfVectorizer().fit_transform(documents)
     vectors = vectorizer.toarray()
 
