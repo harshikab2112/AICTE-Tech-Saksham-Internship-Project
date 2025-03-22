@@ -39,7 +39,7 @@ This project is an AI-powered Resume Screening and Ranking System designed to au
    ```
 4. **Run the application:**
    ```sh
-   streamlit run app.py
+   streamlit run resume-app.py
    ```
 
 ### Usage
