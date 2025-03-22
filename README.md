@@ -5,6 +5,8 @@
 ### Overview
 This project is an AI-powered Resume Screening and Ranking System designed to automate the process of filtering and ranking resumes based on relevant criteria. The system leverages Natural Language Processing (NLP) and Machine Learning (ML) techniques to extract and evaluate key information from resumes efficiently.
 
+### Project Live - https://myresume-app.streamlit.app/
+
 ### Technology Stack
 
 - **Frontend:** Built with Streamlit for an interactive and user-friendly interface.
