@@ -1,0 +1,35 @@
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environment folders
+venv/
+.env/
+.venv/
+
+# Ignore Streamlit temporary files
+.streamlit/
+
+# Ignore logs and database files
+logs/
+*.log
+*.db
+*.sqlite
+
+# Ignore uploaded or processed resume files (if saving locally)
+uploads/
+processed_resumes/
+
+# Ignore dependency files
+Pipfile
+Pipfile.lock
+requirements.txt
+
+# Ignore IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# Ignore secret keys or environment variables
+.env
+config.json
