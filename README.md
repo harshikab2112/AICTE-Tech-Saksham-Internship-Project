@@ -1,5 +1,4 @@
 # AICTE-Tech-Saksham-Internship-Project
-
 ## AI-powered Resume Screening and Ranking System
 
 ### Overview
